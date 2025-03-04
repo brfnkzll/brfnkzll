@@ -1,4 +1,4 @@
-[![MasterHead](https://tr.pinterest.com/pin/837106649526173992/)
+
 <h1 align="center">Hi 👋, I'm Berfin Kızıl</h1>
 <h3 align="center">A passionate backend developer from Türkiye</h3>
 
